@@ -14,14 +14,6 @@ Images : remplace https://github.com/whosdreyn.png par ton illustration (assets/
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=ACE1AF&center=true&vCenter=true&width=560&lines=AI+agents+with+LangGraph+%26+Deep+Agents;Smart+contracts+in+Vyper+%26+Solidity;Where+AI+meets+proof+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/whosdreyn"><img src="https://img.shields.io/badge/GitHub-whosdreyn-6b8f71?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/marianiquekinsou-sonou/"><img src="https://img.shields.io/badge/LinkedIn-whosdreyn-9caf88?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/whosdreyn"><img src="https://img.shields.io/badge/X-whosdreyn-6b8f71?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="mailto:marianiq@lixalistudio.tech"><img src="https://img.shields.io/badge/Gmail-Contact-ace1af&logoColor=1f2e1f?style=for-the-badge&logo=gmail"></a>
-  <a href="https://huggingface.co/ksmarianiq"><img src="https://img.shields.io/badge/Hugging%20Face-ksmarianiq-d8efd3?style=for-the-badge&logo=huggingface&logoColor=black"></a>
-</p>
-
 <p align="center">📍 Cotonou, Benin — Remote friendly</p>
 
 ---
