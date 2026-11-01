@@ -16,7 +16,7 @@ Images : remplace https://github.com/whosdreyn.png par ton illustration (assets/
 
 <p align="center">
   <a href="https://github.com/whosdreyn"><img src="https://img.shields.io/badge/GitHub-whosdreyn-6b8f71?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/TON_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-whosdreyn-9caf88?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/marianiquekinsou-sonou/"><img src="https://img.shields.io/badge/LinkedIn-whosdreyn-9caf88?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:marianiq@lixalistudio.tech"><img src="https://img.shields.io/badge/Gmail-Contact-ace1af&logoColor=1f2e1f?style=for-the-badge&logo=gmail"></a>
   <a href="https://huggingface.co/ksmarianiq"><img src="https://img.shields.io/badge/Hugging%20Face-ksmarianiq-d8efd3?style=for-the-badge&logo=huggingface&logoColor=black"></a>
 </p>
@@ -70,7 +70,7 @@ AI and blockchain engineer. I build LLM systems (RAG, multi-agent with **LangGra
 
 <p align="center">
   <a href="https://github.com/whosdreyn"><img src="https://img.shields.io/badge/GITHUB-1f2e1f?style=for-the-badge&logo=github&logoColor=ace1af"></a>
-  <a href="https://linkedin.com/in/TON_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-1f2e1f?style=for-the-badge&logo=linkedin&logoColor=ace1af"></a>
+  <a href="https://www.linkedin.com/in/marianiquekinsou-sonou/"><img src="https://img.shields.io/badge/LINKEDIN-1f2e1f?style=for-the-badge&logo=linkedin&logoColor=ace1af"></a>
   <a href="mailto:marianiq@lixalistudio.tech"><img src="https://img.shields.io/badge/GMAIL-1f2e1f?style=for-the-badge&logo=gmail&logoColor=ace1af"></a>
   <a href="https://huggingface.co/ksmarianiq"><img src="https://img.shields.io/badge/HUGGING%20FACE-1f2e1f?style=for-the-badge&logo=huggingface&logoColor=ace1af"></a>
   <a href="LIEN_VERS_TON_CV.pdf"><img src="https://img.shields.io/badge/RESUME-1f2e1f?style=for-the-badge&logo=readdotcv&logoColor=ace1af"></a>
