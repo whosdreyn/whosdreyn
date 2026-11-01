@@ -1,109 +1,89 @@
-<!-- ============ BANNIÈRE ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:B620E0,100:00E5FF&height=160&section=header&animation=fadeIn" width="100%"/>
+<!--
+README de profil GitHub — whosdreyn (ReiThink)
+Style : structure CV inspirée de github.com/Henri-Dy, palette vert sauge / céladon.
+Repo à créer : github.com/whosdreyn/whosdreyn (nom du repo = ton pseudo)
+Images : remplace https://github.com/whosdreyn.png par ton illustration (assets/portrait.png)
+-->
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d8efd3,50:ace1af,100:6b8f71&height=110&section=header" width="100%"/>
 
-# ReiThink
+<h1 align="center">@whosdreyn</h1>
+<h3 align="center">AI Engineer · Blockchain &amp; DeFi · Zero-Knowledge</h3>
 
-**AI Engineer · Blockchain Engineer · Zero-Knowledge**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=ACE1AF&center=true&vCenter=true&width=560&lines=AI+agents+with+LangGraph+%26+Deep+Agents;Smart+contracts+in+Vyper+%26+Solidity;Where+AI+meets+proof+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="assets/avatar.svg" width="96" alt="avatar"/></td>
-    <td>
-<pre>
- _  _     _ _      __      __       _    _
-| || |___| | |___  \ \    / /__ _ _| |__| |
-| __ / -_) | / _ \  \ \/\/ / _ \ '_| / _` |
-|_||_\___|_|_\___/   \_/\_/\___/_| |_\__,_|
+<p align="center">
+  <a href="https://github.com/whosdreyn"><img src="https://img.shields.io/badge/GitHub-whosdreyn-6b8f71?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/TON_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-whosdreyn-9caf88?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:marianiq@lixalistudio.tech"><img src="https://img.shields.io/badge/Gmail-Contact-ace1af&logoColor=1f2e1f?style=for-the-badge&logo=gmail"></a>
+  <a href="https://huggingface.co/ksmarianiq"><img src="https://img.shields.io/badge/Hugging%20Face-ksmarianiq-d8efd3?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+</p>
 
-</pre>
-    </td>
-  </tr>
+<p align="center">📍 Cotonou, Benin — Remote friendly</p>
+
+---
+
+## 🌿 About me
+
+<table>
+<tr>
+<td width="220">
+  <img src="https://github.com/whosdreyn.png" alt="Portrait" width="200" style="border-radius:16px">
+</td>
+<td>
+
+AI and blockchain engineer. I build LLM systems (RAG, multi-agent with **LangGraph** and **Deep Agents**), smart contracts in **Vyper** and **Solidity**, and **zero-knowledge** circuits in Noir.
+
+💼 Remote friendly · ✨ Open to internships and interesting problems
+
+</td>
+</tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1500&color=F778BA&center=true&vCenter=true&width=360&lines=%E2%80%A2+system+online+%E2%80%94+welcome_" alt="system online"/>
+---
 
-</div>
+## 🛠️ Tech Stack
+
+**AI & Data**
+<br>
+![IA](https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,redis)
+`LangGraph` · `Deep Agents` · `LangSmith` · `RAG` · `Hugging Face` · `Pandas`
+
+**Blockchain & ZK**
+<br>
+![Web3](https://skillicons.dev/icons?i=solidity,rust)
+`Vyper` · `Moccasin` · `Foundry` · `Noir` · `DeFi` · `AMM`
+
+**DevOps & Tools**
+<br>
+![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,git,github)
+
+**Other**
+<br>
+`AI Agents` · `DeFi` · `Remote Work`
 
 ---
 
-## `> whoami`
+## 🔗 Connect
 
-I build **LLM-powered systems** and **on-chain infrastructure** — and I like it when the two meet.
+<p align="center">
+  <a href="https://github.com/whosdreyn"><img src="https://img.shields.io/badge/GITHUB-1f2e1f?style=for-the-badge&logo=github&logoColor=ace1af"></a>
+  <a href="https://linkedin.com/in/TON_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-1f2e1f?style=for-the-badge&logo=linkedin&logoColor=ace1af"></a>
+  <a href="mailto:marianiq@lixalistudio.tech"><img src="https://img.shields.io/badge/GMAIL-1f2e1f?style=for-the-badge&logo=gmail&logoColor=ace1af"></a>
+  <a href="https://huggingface.co/ksmarianiq"><img src="https://img.shields.io/badge/HUGGING%20FACE-1f2e1f?style=for-the-badge&logo=huggingface&logoColor=ace1af"></a>
+  <a href="LIEN_VERS_TON_CV.pdf"><img src="https://img.shields.io/badge/RESUME-1f2e1f?style=for-the-badge&logo=readdotcv&logoColor=ace1af"></a>
+</p>
 
-- 🤖 **Generative AI** — RAG pipelines, multi-agent systems (LangGraph, Deep Agents), evaluation at scale
-- ⛓️ **Blockchain** — smart contracts in Solidity & Vyper, DeFi vaults, AMM engines
-- 🔐 **Zero-Knowledge** — circuits in Noir, proof systems tested with Foundry
-- 🗣️ **Low-resource languages** — speech & NLP for West African languages
-- 🌍 Building from **West Africa**
-
-> *Where AI meets proof.*
-
----
-
-## `> stack`
-
-<div align="center">
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-7F00FF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logoColor=white"/>
-
-**Blockchain / ZK**
-
-<img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Vyper-2E2E2E?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Foundry-1A1A1A?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Noir-000000?style=for-the-badge&logoColor=white"/>
-
-**Backend / DevOps**
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,kubernetes,githubactions,linux,git&theme=dark" />
-
-</div>
+<p align="center"><i>« Where AI meets proof. »</i></p>
 
 ---
 
-## `> stats`
+## 📊 Contribution
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=whosdreyn&hide_border=true&background=0D1117&ring=ACE1AF&fire=ACE1AF&currStreakLabel=ACE1AF&currStreakNum=D8EFD3&sideNums=D8EFD3&sideLabels=9CAF88&dates=9CA3AF&stroke=2E3F2E" alt="GitHub Streak">
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xreithink&bg_color=0D1117&color=00E5FF&line=B620E0&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=0xreithink&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B620E0&icon_color=00E5FF&text_color=C9D1D9"/>
-<img height="165" src="https://streak-stats.demolab.com?user=0xreithink&hide_border=true&background=0D1117&ring=B620E0&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xreithink&layout=compact&hide_border=true&bg_color=0D1117&title_color=B620E0&text_color=C9D1D9&langs_count=8" width="45%"/>
-
-</div>
-
----
-
-## `> writing`
-
-Je partage mes travaux (IA, agents, DeFi, ZK) sur ma page LinkedIn **ReiThink**.
-
----
-
-<div align="center">
-
-### `> let's build something.`
-
-<a href="https://www.linkedin.com/company/reithink"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:contact@reithink.dev"><img src="https://img.shields.io/badge/Email-B620E0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=0xreithink&color=00e5ff&style=for-the-badge&label=VIEWS"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:B620E0,100:7F00FF&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b8f71,50:ace1af,100:d8efd3&height=80&section=footer" width="100%"/>
